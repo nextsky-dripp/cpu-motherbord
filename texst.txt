@@ -1,11 +1,11 @@
 # uke 4 små fiksing av ting jeg ikke er fornøyd. ho netside
 
 jeg brukte gpt så jeg slap og pute "", melom hver motherbord
+
+jeg brukte gpt til og få koden til og huske vilken prosesor som ble skrevet.
     intel_generasjon = None
     amd_generasjon = None
     hovedkort_info = None
-
-jeg brukte gpt til og hjelpe me så pc husker hvilken prosersor for og sen deg vidre til motherbord
 
 jeg brukte https://pcpartpicker.com/list/ til og fine motherbord men jeg måte skrive ned alle helt selv.
 
