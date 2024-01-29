@@ -1,5 +1,5 @@
 print("Her kan du legge sammen en prosessor og hovedkort for å finne ut om de er kompatible")
-print("Programmet fungerer bare med Intel 14 13 12 eller AMD Ryzen")
+print("Programmet fungerer bare med Intel 14 13 12 eller AMD Ryzen 7")
 
 intel_generasjon = None
 amd_generasjon = None
@@ -371,3 +371,4 @@ elif valg_prosessor == 2:
 
 else:
     print("Ugyldig valg for prosessoren. Avslutter programmet.")
+
